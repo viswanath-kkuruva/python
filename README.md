@@ -1,2 +1,3 @@
 # python
-Python learning and practice project, will be one stop for all information on python
+
+Project to track all information on python learning and practice.
